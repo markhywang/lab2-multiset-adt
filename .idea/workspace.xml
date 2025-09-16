@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e799c403-96ec-49f9-9e13-67125e47b059" name="Changes" comment="Implement LinkedListMultiSet count and size methods" />
+    <list default="true" id="e799c403-96ec-49f9-9e13-67125e47b059" name="Changes" comment="Implement LinkedListMultiSet count and size methods 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,9 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -70,11 +74,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757978788925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implement LinkedListMultiSet count and size methods 1">
+      <option name="closed" value="true" />
+      <created>1757981183629</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757981183629</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implement LinkedListMultiSet count and size methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implement LinkedListMultiSet count and size methods" />
+    <MESSAGE value="Implement LinkedListMultiSet count and size methods 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement LinkedListMultiSet count and size methods 1" />
   </component>
 </project>
